@@ -21,4 +21,4 @@ Mathematics graduate, studying at the Robotics and Artificial Intelligence Resid
 ### *Front-end*
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvccs99&theme=great-gatsby&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvccs99&theme=github_dark&layout=compact)
