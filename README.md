@@ -3,7 +3,7 @@
 Mathematics graduate, studying at the Robotics and Artificial Intelligence Residency at CIn/UFPE in Pernambuco, Brazil.
 
 ## *Programming languages, frameworks and API's*
-![GIF](![giphy](https://github.com/user-attachments/assets/9ab13bdf-6911-4d00-81bd-26abc3f1ee0a)) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvccs99&theme=github_dark&layout=compact)
+![GIF](![giphy]([https://github.com/user-attachments/assets/9ab13bdf-6911-4d00-81bd-26abc3f1ee0a)](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTVya2toZ3RheGJ0NGRwaWRiM3owb3RnZ2dvZGlibHRseGdmM2ZxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dYEgaXJmz9Rk5JTc1v/giphy-downsized-large.gif)) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvccs99&theme=github_dark&layout=compact)
 
 ### *Main stacks*
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
