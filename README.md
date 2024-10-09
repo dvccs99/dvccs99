@@ -3,6 +3,8 @@
 Mathematics graduate, studying at the Robotics and Artificial Intelligence Residency at CIn/UFPE in Pernambuco, Brazil.
 
 ## *Programming languages, frameworks and API's *
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvccs99&theme=github_dark&layout=compact)
+
 ### *Main Stacks*
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
@@ -20,5 +22,3 @@ Mathematics graduate, studying at the Robotics and Artificial Intelligence Resid
 [![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)](https://developer.nvidia.com/cuda-toolkit)
 ### *Front-end*
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvccs99&theme=github_dark&layout=compact)
