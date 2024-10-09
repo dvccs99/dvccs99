@@ -11,7 +11,7 @@ Mathematics graduate, studying at the Robotics and Artificial Intelligence Resid
 ### *GPU computation*
 ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
 ### *Computer Vision*
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Halide](https://img.shields.io/badge/language-Halide-blue?logo=c%2B%2B&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Halide](https://img.shields.io/badge/Halide-blue?logo=c%2B%2B&logoColor=white)
 
 Also: [Halide-lang](https://halide-lang.org/)
 ### *Front-end*
