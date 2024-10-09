@@ -2,7 +2,7 @@
 
 Mathematics graduate, studying at the Robotics and Artificial Intelligence Residency at CIn/UFPE in Pernambuco, Brazil.
 
-## *Programming languages, frameworks and API's *
+## *Programming languages, frameworks and API's*
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvccs99&theme=github_dark&layout=compact)
 
 ### *Main Stacks*
