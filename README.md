@@ -1,5 +1,5 @@
 ## Hi there 👋
-[funny-cat](https://github.com/user-attachments/assets/a4f071e5-3246-4694-bdb5-04f15f6fcabd)
+![funny-cat](https://github.com/user-attachments/assets/a4f071e5-3246-4694-bdb5-04f15f6fcabd)
 
 <!--
 **dvccs99/dvccs99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
