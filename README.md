@@ -5,7 +5,7 @@ Mathematics graduate, studying at the Robotics and Artificial Intelligence Resid
 ## *Programming languages, frameworks and API's*
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvccs99&theme=github_dark&layout=compact)
 
-### *Main Stacks*
+### *Main stacks*
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)](https://www.ros.org/)
