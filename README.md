@@ -2,8 +2,8 @@
 
 Mathematics graduate, studying at the Robotics and Artificial Intelligence Residency at CIn/UFPE in Pernambuco, Brazil.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvccs99&theme=github_dark&layout=compact)  ![](https://github-readme-streak-stats.herokuapp.com/?user=dvccs99&theme=github_dark&hide_border=false)<br/>
 ## 🔨 Programming languages, frameworks and API's
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvccs99&theme=github_dark&layout=compact)
 
 ### ✨ Main stacks
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
@@ -20,3 +20,4 @@ Mathematics graduate, studying at the Robotics and Artificial Intelligence Resid
 </a>
 ### 🌙 Others
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/)
+
