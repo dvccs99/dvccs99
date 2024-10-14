@@ -23,4 +23,4 @@ Mathematics graduate, studying at the Robotics and Artificial Intelligence Resid
 
 ## 📊 Github Statistics
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvccs99&theme=dark&layout=compact)  ![](https://github-readme-streak-stats.herokuapp.com/?user=dvccs99&theme=dark&hide_border=false)<br/>
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvccs99&theme=github_dark&layout=compact)  ![](https://github-readme-streak-stats.herokuapp.com/?user=dvccs99&theme=github_dark&hide_border=false)<br/>
