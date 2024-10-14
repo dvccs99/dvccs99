@@ -16,7 +16,7 @@ Mathematics graduate, studying at the Robotics and Artificial Intelligence Resid
 [![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)](https://developer.nvidia.com/cuda-toolkit)
 [![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
 <a href="https://halide-lang.org" target="_blank">
-  <img src="https://img.shields.io/badge/Halide-blue?logo=c%2B%2B&logoColor=white" alt="Halide" height="28" width="28">
+  <img src="https://img.shields.io/badge/Halide-blue?logo=c%2B%2B&logoColor=white" alt="Halide" height="28" width="100">
 </a>
 ### 🌙 Others
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/)
